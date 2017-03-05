@@ -9,22 +9,6 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "KamjaBook/ViewController.swift"
-            timestampString = "510409472.170339"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
-            landmarkName = "initRes()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "KamjaBook/MashapeHeadersAdapter.swift"
             timestampString = "510404448.582737"
             startingColumnNumber = "9223372036854775807"
@@ -58,13 +42,60 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "KamjaBook/ViewController.swift"
-            timestampString = "510414535.745763"
+            timestampString = "510421944.413555"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "136"
-            endingLineNumber = "136"
-            landmarkName = "parseJSONResults(jsonData:)"
-            landmarkType = "7">
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KamjaBook.ViewController.bookList.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "KamjaBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seo_mac/Desktop/prj_swift/_inflean/KamjaBook/KamjaBook/ViewController.swift"
+                  timestampString = "510421944.946008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KamjaBook.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; KamjaBook.ViewController"
+                  moduleName = "KamjaBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seo_mac/Desktop/prj_swift/_inflean/KamjaBook/KamjaBook/ViewController.swift"
+                  timestampString = "510421944.949284"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KamjaBook.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;KamjaBook.ViewController&gt;"
+                  moduleName = "KamjaBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seo_mac/Desktop/prj_swift/_inflean/KamjaBook/KamjaBook/ViewController.swift"
+                  timestampString = "510421944.951296"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -74,28 +105,91 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "KamjaBook/ViewController.swift"
-            timestampString = "510414535.745763"
+            timestampString = "510421947.317518"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "137"
-            endingLineNumber = "137"
-            landmarkName = "parseJSONResults(jsonData:)"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KamjaBook.ViewController.bookList.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "KamjaBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seo_mac/Desktop/prj_swift/_inflean/KamjaBook/KamjaBook/ViewController.swift"
+                  timestampString = "510421947.62724"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KamjaBook.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; KamjaBook.ViewController"
+                  moduleName = "KamjaBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seo_mac/Desktop/prj_swift/_inflean/KamjaBook/KamjaBook/ViewController.swift"
+                  timestampString = "510421947.629938"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KamjaBook.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;KamjaBook.ViewController&gt;"
+                  moduleName = "KamjaBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seo_mac/Desktop/prj_swift/_inflean/KamjaBook/KamjaBook/ViewController.swift"
+                  timestampString = "510421947.632801"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KamjaBook/ViewController.swift"
+            timestampString = "510423687.635407"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "initRes()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "KamjaBook/ViewController.swift"
-            timestampString = "510414535.745763"
+            timestampString = "510423687.635407"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "138"
-            endingLineNumber = "138"
-            landmarkName = "parseJSONResults(jsonData:)"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "initRes()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

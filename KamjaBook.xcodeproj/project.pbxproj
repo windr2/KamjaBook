@@ -14,6 +14,7 @@
 		65E48C8A1E6C18E700E9CABF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65E48C881E6C18E700E9CABF /* LaunchScreen.storyboard */; };
 		65E48CAD1E6C1B7C00E9CABF /* MashapeHeadersAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E48CAC1E6C1B7C00E9CABF /* MashapeHeadersAdapter.swift */; };
 		65E48CAF1E6C2D7300E9CABF /* BookListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E48CAE1E6C2D7300E9CABF /* BookListCell.swift */; };
+		65EADDDA1E6C684C00B51F81 /* BookData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EADDD91E6C684C00B51F81 /* BookData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -143,6 +144,7 @@
 		65E48CAC1E6C1B7C00E9CABF /* MashapeHeadersAdapter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MashapeHeadersAdapter.swift; sourceTree = "<group>"; };
 		65E48CAE1E6C2D7300E9CABF /* BookListCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookListCell.swift; sourceTree = "<group>"; };
 		65E48CB01E6C3AD500E9CABF /* SwiftyJSON.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SwiftyJSON.xcodeproj; path = "../../../lib_swift/SwiftyJSON-master/SwiftyJSON.xcodeproj"; sourceTree = "<group>"; };
+		65EADDD91E6C684C00B51F81 /* BookData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,6 +187,7 @@
 				65E48C8B1E6C18E700E9CABF /* Info.plist */,
 				65E48CAC1E6C1B7C00E9CABF /* MashapeHeadersAdapter.swift */,
 				65E48CAE1E6C2D7300E9CABF /* BookListCell.swift */,
+				65EADDD91E6C684C00B51F81 /* BookData.swift */,
 			);
 			path = KamjaBook;
 			sourceTree = "<group>";
@@ -403,6 +406,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65EADDDA1E6C684C00B51F81 /* BookData.swift in Sources */,
 				65E48CAF1E6C2D7300E9CABF /* BookListCell.swift in Sources */,
 				65E48C821E6C18E700E9CABF /* ViewController.swift in Sources */,
 				65E48CAD1E6C1B7C00E9CABF /* MashapeHeadersAdapter.swift in Sources */,

@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		650EE32F1E6D8D600064FB3D /* FlickrAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650EE32E1E6D8D600064FB3D /* FlickrAPI.swift */; };
+		650EE33F1E6D8D890064FB3D /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650EE33E1E6D8D880064FB3D /* Photo.swift */; };
+		650EE3411E6D91B30064FB3D /* PhotoStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650EE3401E6D91B30064FB3D /* PhotoStore.swift */; };
+		650EE3491E6D97A10064FB3D /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650EE3481E6D97A10064FB3D /* PhotosViewController.swift */; };
 		65E48C801E6C18E700E9CABF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E48C7F1E6C18E700E9CABF /* AppDelegate.swift */; };
 		65E48C821E6C18E700E9CABF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E48C811E6C18E700E9CABF /* ViewController.swift */; };
 		65E48C851E6C18E700E9CABF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65E48C831E6C18E700E9CABF /* Main.storyboard */; };
@@ -133,6 +137,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		650EE32E1E6D8D600064FB3D /* FlickrAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrAPI.swift; sourceTree = "<group>"; };
+		650EE33E1E6D8D880064FB3D /* Photo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		650EE3401E6D91B30064FB3D /* PhotoStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoStore.swift; sourceTree = "<group>"; };
+		650EE3481E6D97A10064FB3D /* PhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
 		65E48C7C1E6C18E700E9CABF /* KamjaBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KamjaBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65E48C7F1E6C18E700E9CABF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65E48C811E6C18E700E9CABF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -188,6 +196,10 @@
 				65E48CAC1E6C1B7C00E9CABF /* MashapeHeadersAdapter.swift */,
 				65E48CAE1E6C2D7300E9CABF /* BookListCell.swift */,
 				65EADDD91E6C684C00B51F81 /* BookData.swift */,
+				650EE32E1E6D8D600064FB3D /* FlickrAPI.swift */,
+				650EE33E1E6D8D880064FB3D /* Photo.swift */,
+				650EE3401E6D91B30064FB3D /* PhotoStore.swift */,
+				650EE3481E6D97A10064FB3D /* PhotosViewController.swift */,
 			);
 			path = KamjaBook;
 			sourceTree = "<group>";
@@ -406,9 +418,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				650EE3491E6D97A10064FB3D /* PhotosViewController.swift in Sources */,
+				650EE33F1E6D8D890064FB3D /* Photo.swift in Sources */,
 				65EADDDA1E6C684C00B51F81 /* BookData.swift in Sources */,
+				650EE3411E6D91B30064FB3D /* PhotoStore.swift in Sources */,
 				65E48CAF1E6C2D7300E9CABF /* BookListCell.swift in Sources */,
 				65E48C821E6C18E700E9CABF /* ViewController.swift in Sources */,
+				650EE32F1E6D8D600064FB3D /* FlickrAPI.swift in Sources */,
 				65E48CAD1E6C1B7C00E9CABF /* MashapeHeadersAdapter.swift in Sources */,
 				65E48C801E6C18E700E9CABF /* AppDelegate.swift in Sources */,
 			);
